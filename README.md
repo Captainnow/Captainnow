@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=76B900&center=true&vCenter=true&width=680&lines=V.+Karthikeyan;GM+Technology+%40+Rapha+MedTech;Biomedical+Engineer+%2B+Data+Scientist;Boeing+Build+4.0+National+Champion+%F0%9F%8F%86;Building+Healthcare+AI+from+First+Principles)](https://github.com/Captainnow)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=76B900&center=true&vCenter=true&width=680&lines=V.Karthikeyan;GM+Technology+at+Rapha+MedTech;Biomedical+Engineer+%2B+Data+Analyst;Boeing+Build+4.0+National+Winner+%F0%9F%8F%86;)](https://github.com/Captainnow)
 
 <br/>
 
@@ -19,21 +19,21 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-profile:
-    name        : V.Karthikeyan
-    role        : GM Technology @ Rapha MedTech
-    education   : B.Tech Biomedical Engineering + Data Science
-                  Karunya Institute of Technology & Sciences
-    location    : Nilgiris, Tamil Nadu, India  🇮🇳
-    research    : IEEE Sensors — ACL Strain Detection (Under Review)
-    building    : Rehab SaaS  |  ORCA Bionic Arm (URDF/MJCF)
-    achievement : 🏆 Boeing Build 4.0 Champion · ₹10,00,000
-    mission     : "Bridge clinical insight with data intelligence"
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                                        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                                                          profile:
+                                            name        : V.Karthikeyan
+                                            role        : GM Technology @ Rapha MedTech
+                                            education   : B.Tech Biomedical Engineering + Data Science
+                                                          Karunya Institute of Technology & Sciences
+                                            location    : Nilgiris, Tamil Nadu, India  🇮🇳
+                                            research    : IEEE Sensors — ACL Strain Detection (Under Review)
+                                            building    : Rehab SaaS  |  Myoflex Bionic Arm (URDF/MJCF)
+                                            achievement : 🏆 Boeing Build 4.0 Champion · ₹10,00,000
+                                            mission     : "Bridge clinical insight with data intelligence"
+                                       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </div>
@@ -62,7 +62,7 @@ ETL pipelines, BI dashboards, predictive modeling, KPI systems
 
 **🦾 Biomedical Devices**
 
-ORCA bionic arm, ACL wearable sensor, URDF/MJCF simulation
+Myoflex bionic arm, ACL wearable sensor, URDF/MJCF simulation
 
 </td>
 <td width="25%" align="center">
@@ -102,7 +102,7 @@ Rehab platform, physiotherapist verification, automated PSV pipelines
 
 - 📊 Architecting **patient adherence dashboards** and rehabilitation outcome trackers in Power BI / Tableau
 - 🤖 Building a **physiotherapist verification system** — automated PSV pipelines, trust scoring, continuous monitoring
-- 🦾 Supporting the **ORCA bionic arm** project through data analysis and URDF/MJCF simulation workflows
+- 🦾 Supporting the **Myoflex bionic arm** project through Research and development and Cross-Functional leadership 
 - 🔬 Transforming raw clinical & operational data into decision-grade insights for medical teams
 
 ---
