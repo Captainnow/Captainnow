@@ -23,8 +23,8 @@
 
 ```yaml
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  profile:
-    name        : Karthikeyan V.
+profile:
+    name        : V.Karthikeyan
     role        : GM Technology @ Rapha MedTech
     education   : B.Tech Biomedical Engineering + Data Science
                   Karunya Institute of Technology & Sciences
@@ -33,7 +33,7 @@
     building    : Rehab SaaS  |  ORCA Bionic Arm (URDF/MJCF)
     achievement : 🏆 Boeing Build 4.0 Champion · ₹10,00,000
 
-  mission     : "Bridge clinical insight with data intelligence"
+mission     : "Bridge clinical insight with data intelligence"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
