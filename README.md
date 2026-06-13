@@ -22,8 +22,9 @@
 <div align="left">
 
 ```yaml
-                                        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                                       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
                                                           profile:
+
                                             name        : V.Karthikeyan
                                             role        : GM Technology @ Rapha MedTech
                                             education   : B.Tech Biomedical Engineering + Data Science
@@ -33,7 +34,7 @@
                                             building    : Rehab SaaS  |  Myoflex Bionic Arm (URDF/MJCF)
                                             achievement : 🏆 Boeing Build 4.0 Champion · ₹10,00,000
                                             mission     : "Bridge clinical insight with data intelligence"
-                                       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                                       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </div>
