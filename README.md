@@ -32,8 +32,7 @@ profile:
     research    : IEEE Sensors — ACL Strain Detection (Under Review)
     building    : Rehab SaaS  |  ORCA Bionic Arm (URDF/MJCF)
     achievement : 🏆 Boeing Build 4.0 Champion · ₹10,00,000
-
-mission     : "Bridge clinical insight with data intelligence"
+    mission     : "Bridge clinical insight with data intelligence"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
