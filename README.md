@@ -1,55 +1,72 @@
 <div align="center">
 
-# 👋 Hi, I'm Karthikeyan
-
-**Data Analyst | Full-Stack Engineer | Healthcare AI Specialist**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Building+intelligent+healthcare+systems;Data-driven+decision+making;AI%2FML+innovation;Full-stack+engineering" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&animation=fadeIn" width="100%" />
 
 </div>
-
----
-
-## 🚀 About Me
-
-Building intelligent systems at the intersection of healthcare, data science, and AI. Currently leading technology initiatives at **Rapha MedTech**, focusing on data-driven decision-making and healthcare transformation.
 
 <div align="center">
 
-[🌐 Portfolio](https://vkarthikeyan-raphamedtec-portfolio-ten.vercel.app) • [💼 LinkedIn](https://linkedin.com/in/vkarthikeyan-raphamedtech) • [📧 Email](mailto:karthikeyan6912@gmail.com) • [📱 +91 6380038251](tel:+916380038251)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=76B900&center=true&vCenter=true&width=680&lines=Karthikeyan+V.;GM+Technology+%40+Rapha+MedTech;Biomedical+Engineer+%2B+Data+Scientist;Boeing+Build+4.0+National+Champion+%F0%9F%8F%86;Building+Healthcare+AI+from+First+Principles)](https://github.com/Captainnow)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=Connect)](https://linkedin.com/in/vkarthikeyan-raphamedtech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white&label=Live)](https://vkarthikeyan-raphamedtec-portfolio-ten.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&label=Reach+out)](mailto:karthikeyan6912@gmail.com)
+[![Location](https://img.shields.io/badge/Tamil+Nadu%2C+India-111827?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Tamil+Nadu,India)
 
 </div>
 
 ---
 
-## 🎯 Core Expertise
+<div align="center">
 
-<table>
+```yaml
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  profile:
+    name        : Karthikeyan V.
+    role        : GM Technology @ Rapha MedTech
+    education   : B.Tech Biomedical Engineering + Data Science
+                  Karunya Institute of Technology & Sciences
+    location    : Nilgiris, Tamil Nadu, India  🇮🇳
+    research    : IEEE Sensors — ACL Strain Detection (Under Review)
+    building    : Rehab SaaS  |  ORCA Bionic Arm (URDF/MJCF)
+    achievement : 🏆 Boeing Build 4.0 Champion · ₹10,00,000
+
+  mission     : "Bridge clinical insight with data intelligence"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+---
+
+## ⚡ What I Build
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="25%" align="center">
 
-### 📊 Data Analytics & Engineering
-- SQL, Python, Power BI, Tableau, Excel
-- ETL pipelines, data warehousing, data modeling
-- EDA, predictive analytics, KPI reporting
-
-### 🏥 Healthcare Technology
-- Healthcare data integration & analytics
-- Risk stratification & patient classification
-- Clinical decision support systems
+**🏥 Healthcare AI**
+Patient risk stratification, clinical decision support, rehabilitation analytics
 
 </td>
-<td width="50%">
+<td width="25%" align="center">
 
-### 💻 Full-Stack Development
-- Backend: Python, Node.js, TypeScript
-- Frontend: React, responsive design
-- Databases: MySQL, PostgreSQL, SQLite
+**📊 Data Engineering**
+ETL pipelines, BI dashboards, predictive modeling, KPI systems
 
-### 🤖 AI/ML
-- Deep learning models for medical imaging
-- Machine learning for healthcare applications
-- Model deployment & production systems
+</td>
+<td width="25%" align="center">
+
+**🦾 Biomedical Devices**
+ORCA bionic arm, ACL wearable sensor, URDF/MJCF simulation
+
+</td>
+<td width="25%" align="center">
+
+**🌐 Full-Stack SaaS**
+Rehab platform, physiotherapist verification, automated PSV pipelines
 
 </td>
 </tr>
@@ -57,170 +74,243 @@ Building intelligent systems at the intersection of healthcare, data science, an
 
 ---
 
-## 💼 Current Role
-
-### General Manager - Technology @ Rapha MedTech
-**📅 May 2025 – Present**
+## 🏆 Achievements
 
 <div align="center">
 
-> Leading technology transformation in early-stage healthcare startup
+| 🥇 | Boeing Build 4.0 · National Winner | ₹10,00,000 awarded for healthcare innovation |
+|:---:|:---|:---|
+| 📡 | IEEE Sensors Journal (JSEN) | Co-author · Flexible capacitive ACL sensor |
+| 💼 | GM Technology · Rapha MedTech | Risk models + patient analytics in production |
+| 🏥 | Karunya Hospital Fieldwork | Clinical data · patient classification pipelines |
+| 📋 | Deloitte Data Analytics Simulation | Tableau + Excel · Daikibo Industrials (Forage) |
+| 🤖 | Vista Equity Partners AI Simulation | AI in Action · (Forage) |
+| 🐍 | Python Essentials 1 & 2 | Cisco Certified |
 
 </div>
 
-- 📊 Developing dashboards for patient adherence & rehabilitation outcomes
-- 🤖 Supporting bionic arm solution development through data analysis
-- 🏥 Transforming clinical & operational data into actionable insights
-- 🎯 **Award Winner** - Boeing Build 4.0 National Winner (₹10 Lakhs funded solution)
+---
+
+## 💼 Experience
+
+### General Manager — Technology · Rapha MedTech
+`May 2025 – Present` · Early-stage Healthcare Startup
+
+- 📊 Architecting **patient adherence dashboards** and rehabilitation outcome trackers in Power BI / Tableau
+- 🤖 Building a **physiotherapist verification system** — automated PSV pipelines, trust scoring, continuous monitoring
+- 🦾 Supporting the **ORCA bionic arm** project through data analysis and URDF/MJCF simulation workflows  
+- 🔬 Transforming raw clinical & operational data into decision-grade insights for medical teams
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
-### 🏥 Healthcare Intelligence & Analytics
+### 🏥 Healthcare Intelligence
 
-| Project | Description | Tech Stack | Impact |
-|---------|-------------|-----------|--------|
-| **[Cortex-Intel Healthcare Intelligence](https://github.com/Captainnow/Cortex-Intel-Healthcare-Intelligence)** | Integrated 8,500+ healthcare records with FDA recalls & WHO indicators | Python, Data Analytics, SQL | Advanced clinical insights |
-| **[Diabetic Retinopathy Screening](https://github.com/Captainnow/Diabetic-retinopathy-screening)** | Deep learning model for early diagnosis deployment | Python, Deep Learning, Streamlit | Production deployment |
-| **[Skin Lesion Classification](https://github.com/Captainnow/Skin-lesion-classification)** | AI-powered dermatology classification system | Python, Deep Learning | Clinical decision support |
-| **[Healthcare Risk Prioritization](https://github.com/Captainnow/Cortex-Intel-Healthcare-Intelligence)** | Patient risk segmentation & intervention dashboards | Python, Data Analytics | Improved patient outcomes |
+<table width="100%">
+<tr>
+<td width="50%">
+
+**[Cortex-Intel Healthcare Intelligence](https://github.com/Captainnow/Cortex-Intel-Healthcare-Intelligence)**  
+Integrated 8,500+ healthcare records with FDA recalls & WHO indicators. Advanced clinical risk insights via predictive pipelines.  
+`Python` `SQL` `Data Analytics` `Risk Modeling`
+
+</td>
+<td width="50%">
+
+**[Diabetic Retinopathy Screening](https://github.com/Captainnow/Diabetic-retinopathy-screening)**  
+Deep learning model for early-stage diabetic retinopathy detection — deployed to production via Streamlit.  
+`Python` `Deep Learning` `PyTorch` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Skin Lesion Classification](https://github.com/Captainnow/Skin-lesion-classification)**  
+AI-powered dermatology classifier for clinical decision support. Multi-class skin condition identification.  
+`Python` `TensorFlow` `Computer Vision`
+
+</td>
+<td width="50%">
+
+**[Healthcare Risk Prioritization](https://github.com/Captainnow/Cortex-Intel-Healthcare-Intelligence)**  
+Patient risk segmentation and intervention dashboards. Stratification logic deployed in Rapha MedTech workflows.  
+`Python` `Pandas` `Power BI`
+
+</td>
+</tr>
+</table>
 
 ### 📈 Data Analytics & Business Intelligence
 
-| Project | Description | Tech Stack | Outcome |
-|---------|-------------|-----------|---------|
-| **[Global Tech Layoffs Dashboard](https://github.com/Captainnow/data-analytics-layoffs-project)** | Analyzed 1,893 companies, 386,000+ employees, 40,000+ layoffs | Excel, Power BI, Analytics | Industry insights |
-| **[Deloitte IoT Analytics Dashboard](https://github.com/Captainnow/Deloitte-Job-Simulation-Dashboard)** | IoT telemetry analysis from Daikibo factories | Tableau, Data Analytics | Device health monitoring |
+<table width="100%">
+<tr>
+<td width="50%">
 
-### 🌐 Full-Stack & Web Development
+**[Global Tech Layoffs Dashboard](https://github.com/Captainnow/data-analytics-layoffs-project)**  
+Analyzed 1,893 companies · 386,000+ employees · 40,000+ layoffs. Macro industry insights across sectors and geographies.  
+`Excel` `Power BI` `EDA` `Analytics`
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[Portfolio Website](https://github.com/Captainnow/Karthikeyan-portfolio)** | Modern, responsive professional showcase | React, CSS, JavaScript |
-| **[Melascope DX Full-Stack](https://github.com/Captainnow/Melascope-DX-FULLSTACK-WEB-DEVELOPMENT)** | Complete full-stack web application | TypeScript, React, Python |
-| **[Water Intake Tracker](https://github.com/Captainnow/Water-Intake-Tracker-Daily-Hydration-App)** | Interactive hydration tracking application | HTML, CSS, JavaScript |
+</td>
+<td width="50%">
+
+**[Deloitte IoT Analytics Dashboard](https://github.com/Captainnow/Deloitte-Job-Simulation-Dashboard)**  
+IoT telemetry analysis from Daikibo factories. Device health monitoring and anomaly detection for industrial ops.  
+`Tableau` `IoT Analytics` `Data Storytelling`
+
+</td>
+</tr>
+</table>
+
+### 🌐 Full-Stack & Web
+
+<table width="100%">
+<tr>
+<td width="33%">
+
+**[Portfolio Website](https://github.com/Captainnow/Karthikeyan-portfolio)**  
+Modern responsive professional showcase  
+`React` `CSS` `JavaScript`
+
+</td>
+<td width="33%">
+
+**[Melascope DX Full-Stack](https://github.com/Captainnow/Melascope-DX-FULLSTACK-WEB-DEVELOPMENT)**  
+Complete full-stack web application  
+`TypeScript` `React` `Python`
+
+</td>
+<td width="33%">
+
+**[Water Intake Tracker](https://github.com/Captainnow/Water-Intake-Tracker-Daily-Hydration-App)**  
+Interactive hydration tracking app  
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Core Languages**
 
-### Analytics & BI Tools
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=76B900)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=76B900)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=76B900)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=76B900)
+![MATLAB](https://img.shields.io/badge/MATLAB-111827?style=for-the-badge&logo=mathworks&logoColor=76B900)
 
-### ML & Web Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+**Data & Analytics**
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=76B900)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=76B900)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=76B900)
+![Power BI](https://img.shields.io/badge/Power_BI-111827?style=for-the-badge&logo=powerbi&logoColor=76B900)
+![Tableau](https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=76B900)
+![Excel](https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoftexcel&logoColor=76B900)
+
+**ML / Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=76B900)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=76B900)
+![Streamlit](https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=76B900)
+
+**Web & Databases**
+
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=76B900)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=76B900)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=76B900)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=76B900)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=76B900)
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=76B900)
+![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=76B900)
+![Google Colab](https://img.shields.io/badge/Colab-111827?style=for-the-badge&logo=googlecolab&logoColor=76B900)
+![Arduino](https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino&logoColor=76B900)
 
 </div>
 
 ---
 
-## 📚 Research & Publications
+## 📚 Research
 
 <div align="center">
 
-### 🔬 Flexible RF-Based Wearable Sensor for Pre- and Post-ACL Strain Assessment
-**Under Review – International Journal of Electronics**
-
-*Karunya Institute of Technology and Sciences*
-
-Novel textile-integrated RF sensing platform for rehabilitation monitoring • Advanced musculoskeletal health monitoring through flexible electronics
+> **🔬 Flexible RF-Based Wearable Sensor for Pre- and Post-ACL Strain Assessment**  
+> *Under Review — International Journal of Electronics*  
+> Karunya Institute of Technology and Sciences  
+>   
+> Novel textile-integrated RF sensing platform for rehabilitation monitoring  
+> Advanced musculoskeletal health assessment through flexible electronics
 
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 📊 GitHub Analytics
 
 <div align="center">
 
-🥇 **Boeing Build 4.0 National Winner** – ₹10 Lakhs awarded for innovative healthcare technology  
-📊 **Deloitte Data Analytics Job Simulation** (Forage)  
-🤖 **Vista Equity Partners AI in Action Job Simulation** (Forage)  
-🐍 **Python Essentials 1 & 2** (Cisco)  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Captainnow&show_icons=true&hide_border=true&bg_color=111827&title_color=76B900&icon_color=76B900&text_color=9ca3af&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captainnow&layout=compact&hide_border=true&bg_color=111827&title_color=76B900&text_color=9ca3af&langs_count=7" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Captainnow&hide_border=true&background=111827&ring=76B900&fire=76B900&currStreakLabel=76B900&sideLabels=9ca3af&dates=9ca3af&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Captainnow&bg_color=111827&color=76B900&line=76B900&point=ffffff&area=true&area_color=76B90020&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-## 📖 Education
+## 🎓 Education
 
 <div align="center">
 
-### B.Tech in Biomedical Engineering
-**Data Science Specialization**
-
-Karunya Institute of Technology and Sciences | 2022 – 2026
+**B.Tech — Biomedical Engineering · Data Science Specialization**  
+Karunya Institute of Technology and Sciences, Coimbatore  
+`2022 – 2026`
 
 </div>
 
 ---
 
-## 📈 GitHub Statistics
+## 🤝 Open To
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Captainnow&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF)
+| Role | Domain |
+|:---|:---|
+| 💼 Full-time | Data Analyst · Business Analyst · Healthcare AI Engineer |
+| 🤝 Collaboration | Healthcare technology · Data science research |
+| 📈 Consulting | Clinical analytics · Data-driven decision systems |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Captainnow&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Captainnow&theme=radical&background=0D1117&border=58A6FF)
+**📧** [karthikeyan6912@gmail.com](mailto:karthikeyan6912@gmail.com) · **💼** [LinkedIn](https://linkedin.com/in/vkarthikeyan-raphamedtech) · **🌐** [Portfolio](https://vkarthikeyan-raphamedtec-portfolio-ten.vercel.app) · **📍** Nilgiris, TN, India
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-### Open to:
-💼 Full-time opportunities in Data Analytics, AI/ML Engineering, Healthcare Tech  
-🤝 Collaborations on healthcare technology & data science projects  
-📈 Consulting on healthcare analytics & data-driven decision systems
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
 
----
+![Visitors](https://komarev.com/ghpvc/?username=Captainnow&style=flat-square&color=76B900&label=PROFILE+VIEWS)
 
-### Get in touch:
-
-| Contact | Details |
-|---------|---------|
-| 📧 **Email** | [karthikeyan6912@gmail.com](mailto:karthikeyan6912@gmail.com) |
-| 💼 **LinkedIn** | [vkarthikeyan-raphamedtech](https://linkedin.com/in/vkarthikeyan-raphamedtech) |
-| 🌐 **Portfolio** | [vkarthikeyan-raphamedtec-portfolio](https://vkarthikeyan-raphamedtec-portfolio-ten.vercel.app) |
-| 📍 **Location** | Nilgiris, Tamil Nadu, India 🇮🇳 |
-| 📱 **Phone** | +91 6380038251 |
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa500-aca0-4a54-9338-f6b11fd3f600.gif" width="100">
-
-### Building intelligent healthcare systems that make an impact 🏥✨
-
-**Last Updated:** June 2026
+*"Building intelligent healthcare systems that make an impact — one model at a time."*
 
 </div>
