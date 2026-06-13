@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=76B900&center=true&vCenter=true&width=680&lines=Karthikeyan+V.;GM+Technology+%40+Rapha+MedTech;Biomedical+Engineer+%2B+Data+Scientist;Boeing+Build+4.0+National+Champion+%F0%9F%8F%86;Building+Healthcare+AI+from+First+Principles)](https://github.com/Captainnow)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=76B900&center=true&vCenter=true&width=680&lines=V.+Karthikeyan;GM+Technology+%40+Rapha+MedTech;Biomedical+Engineer+%2B+Data+Scientist;Boeing+Build+4.0+National+Champion+%F0%9F%8F%86;Building+Healthcare+AI+from+First+Principles)](https://github.com/Captainnow)
 
 <br/>
 
@@ -48,24 +48,28 @@ mission     : "Bridge clinical insight with data intelligence"
 <td width="25%" align="center">
 
 **🏥 Healthcare AI**
+
 Patient risk stratification, clinical decision support, rehabilitation analytics
 
 </td>
 <td width="25%" align="center">
 
 **📊 Data Engineering**
+
 ETL pipelines, BI dashboards, predictive modeling, KPI systems
 
 </td>
 <td width="25%" align="center">
 
 **🦾 Biomedical Devices**
+
 ORCA bionic arm, ACL wearable sensor, URDF/MJCF simulation
 
 </td>
 <td width="25%" align="center">
 
 **🌐 Full-Stack SaaS**
+
 Rehab platform, physiotherapist verification, automated PSV pipelines
 
 </td>
@@ -78,8 +82,9 @@ Rehab platform, physiotherapist verification, automated PSV pipelines
 
 <div align="center">
 
-| 🥇 | Boeing Build 4.0 · National Winner | ₹10,00,000 awarded for healthcare innovation |
+| | Achievement | Details |
 |:---:|:---|:---|
+| 🥇 | Boeing Build 4.0 · National Winner | ₹10,00,000 awarded for healthcare innovation |
 | 📡 | IEEE Sensors Journal (JSEN) | Co-author · Flexible capacitive ACL sensor |
 | 💼 | GM Technology · Rapha MedTech | Risk models + patient analytics in production |
 | 🏥 | Karunya Hospital Fieldwork | Clinical data · patient classification pipelines |
@@ -98,7 +103,7 @@ Rehab platform, physiotherapist verification, automated PSV pipelines
 
 - 📊 Architecting **patient adherence dashboards** and rehabilitation outcome trackers in Power BI / Tableau
 - 🤖 Building a **physiotherapist verification system** — automated PSV pipelines, trust scoring, continuous monitoring
-- 🦾 Supporting the **ORCA bionic arm** project through data analysis and URDF/MJCF simulation workflows  
+- 🦾 Supporting the **ORCA bionic arm** project through data analysis and URDF/MJCF simulation workflows
 - 🔬 Transforming raw clinical & operational data into decision-grade insights for medical teams
 
 ---
@@ -111,15 +116,19 @@ Rehab platform, physiotherapist verification, automated PSV pipelines
 <tr>
 <td width="50%">
 
-**[Cortex-Intel Healthcare Intelligence](https://github.com/Captainnow/Cortex-Intel-Healthcare-Intelligence)**  
-Integrated 8,500+ healthcare records with FDA recalls & WHO indicators. Advanced clinical risk insights via predictive pipelines.  
+**[Cortex-Intel Healthcare Intelligence](https://github.com/Captainnow/Cortex-Intel-Healthcare-Intelligence)**
+
+Integrated 8,500+ healthcare records with FDA recalls & WHO indicators. Advanced clinical risk insights via predictive pipelines.
+
 `Python` `SQL` `Data Analytics` `Risk Modeling`
 
 </td>
 <td width="50%">
 
-**[Diabetic Retinopathy Screening](https://github.com/Captainnow/Diabetic-retinopathy-screening)**  
-Deep learning model for early-stage diabetic retinopathy detection — deployed to production via Streamlit.  
+**[Diabetic Retinopathy Screening](https://github.com/Captainnow/Diabetic-retinopathy-screening)**
+
+Deep learning model for early-stage diabetic retinopathy detection — deployed to production via Streamlit.
+
 `Python` `Deep Learning` `PyTorch` `Streamlit`
 
 </td>
@@ -127,15 +136,19 @@ Deep learning model for early-stage diabetic retinopathy detection — deployed 
 <tr>
 <td width="50%">
 
-**[Skin Lesion Classification](https://github.com/Captainnow/Skin-lesion-classification)**  
-AI-powered dermatology classifier for clinical decision support. Multi-class skin condition identification.  
+**[Skin Lesion Classification](https://github.com/Captainnow/Skin-lesion-classification)**
+
+AI-powered dermatology classifier for clinical decision support. Multi-class skin condition identification.
+
 `Python` `TensorFlow` `Computer Vision`
 
 </td>
 <td width="50%">
 
-**[Healthcare Risk Prioritization](https://github.com/Captainnow/Cortex-Intel-Healthcare-Intelligence)**  
-Patient risk segmentation and intervention dashboards. Stratification logic deployed in Rapha MedTech workflows.  
+**[Healthcare Risk Prioritization](https://github.com/Captainnow/Cortex-Intel-Healthcare-Intelligence)**
+
+Patient risk segmentation and intervention dashboards. Stratification logic deployed in Rapha MedTech workflows.
+
 `Python` `Pandas` `Power BI`
 
 </td>
@@ -148,15 +161,19 @@ Patient risk segmentation and intervention dashboards. Stratification logic depl
 <tr>
 <td width="50%">
 
-**[Global Tech Layoffs Dashboard](https://github.com/Captainnow/data-analytics-layoffs-project)**  
-Analyzed 1,893 companies · 386,000+ employees · 40,000+ layoffs. Macro industry insights across sectors and geographies.  
+**[Global Tech Layoffs Dashboard](https://github.com/Captainnow/data-analytics-layoffs-project)**
+
+Analyzed 1,893 companies · 386,000+ employees · 40,000+ layoffs. Macro industry insights across sectors and geographies.
+
 `Excel` `Power BI` `EDA` `Analytics`
 
 </td>
 <td width="50%">
 
-**[Deloitte IoT Analytics Dashboard](https://github.com/Captainnow/Deloitte-Job-Simulation-Dashboard)**  
-IoT telemetry analysis from Daikibo factories. Device health monitoring and anomaly detection for industrial ops.  
+**[Deloitte IoT Analytics Dashboard](https://github.com/Captainnow/Deloitte-Job-Simulation-Dashboard)**
+
+IoT telemetry analysis from Daikibo factories. Device health monitoring and anomaly detection for industrial ops.
+
 `Tableau` `IoT Analytics` `Data Storytelling`
 
 </td>
@@ -169,22 +186,28 @@ IoT telemetry analysis from Daikibo factories. Device health monitoring and anom
 <tr>
 <td width="33%">
 
-**[Portfolio Website](https://github.com/Captainnow/Karthikeyan-portfolio)**  
-Modern responsive professional showcase  
+**[Portfolio Website](https://github.com/Captainnow/Karthikeyan-portfolio)**
+
+Modern responsive professional showcase
+
 `React` `CSS` `JavaScript`
 
 </td>
 <td width="33%">
 
-**[Melascope DX Full-Stack](https://github.com/Captainnow/Melascope-DX-FULLSTACK-WEB-DEVELOPMENT)**  
-Complete full-stack web application  
+**[Melascope DX Full-Stack](https://github.com/Captainnow/Melascope-DX-FULLSTACK-WEB-DEVELOPMENT)**
+
+Complete full-stack web application
+
 `TypeScript` `React` `Python`
 
 </td>
 <td width="33%">
 
-**[Water Intake Tracker](https://github.com/Captainnow/Water-Intake-Tracker-Daily-Hydration-App)**  
-Interactive hydration tracking app  
+**[Water Intake Tracker](https://github.com/Captainnow/Water-Intake-Tracker-Daily-Hydration-App)**
+
+Interactive hydration tracking app
+
 `HTML` `CSS` `JavaScript`
 
 </td>
@@ -243,12 +266,12 @@ Interactive hydration tracking app
 
 <div align="center">
 
-> **🔬 Flexible RF-Based Wearable Sensor for Pre- and Post-ACL Strain Assessment**  
-> *Under Review — International Journal of Electronics*  
-> Karunya Institute of Technology and Sciences  
->   
-> Novel textile-integrated RF sensing platform for rehabilitation monitoring  
-> Advanced musculoskeletal health assessment through flexible electronics
+> **🔬 Flexible RF-Based Wearable Sensor for Pre- and Post-ACL Strain Assessment**
+> *Under Review — International Journal of Electronics*
+> Karunya Institute of Technology and Sciences
+>
+> Novel textile-integrated RF sensing platform for rehabilitation monitoring.
+> Advanced musculoskeletal health assessment through flexible electronics.
 
 </div>
 
@@ -281,8 +304,8 @@ Interactive hydration tracking app
 
 <div align="center">
 
-**B.Tech — Biomedical Engineering · Data Science Specialization**  
-Karunya Institute of Technology and Sciences, Coimbatore  
+**B.Tech — Biomedical Engineering · Data Science Specialization**
+Karunya Institute of Technology and Sciences, Coimbatore
 `2022 – 2026`
 
 </div>
