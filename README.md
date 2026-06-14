@@ -114,7 +114,7 @@ Rehab platform, physiotherapist verification, automated PSV pipelines
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="60%">
 
 **[Cortex-Intel Healthcare Intelligence](https://github.com/Captainnow/Cortex-Intel-Healthcare-Intelligence)**
 
@@ -123,7 +123,7 @@ Integrated 8,500+ healthcare records with FDA recalls & WHO indicators. Advanced
 `Python` `SQL` `Data Analytics` `Risk Modeling`
 
 </td>
-<td width="50%">
+<td width="40%">
 
 **[Diabetic Retinopathy Screening](https://github.com/Captainnow/Diabetic-retinopathy-screening)**
 
@@ -134,7 +134,7 @@ Deep learning model for early-stage diabetic retinopathy detection — deployed 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="60%">
 
 **[Skin Lesion Classification](https://github.com/Captainnow/Skin-lesion-classification)**
 
@@ -143,16 +143,7 @@ AI-powered dermatology classifier for clinical decision support. Multi-class ski
 `Python` `TensorFlow` `Computer Vision`
 
 </td>
-<td width="50%">
 
-**[Healthcare Risk Prioritization](https://github.com/Captainnow/Cortex-Intel-Healthcare-Intelligence)**
-
-Patient risk segmentation and intervention dashboards. Stratification logic deployed in Rapha MedTech workflows.
-
-`Python` `Pandas` `Power BI`
-
-</td>
-</tr>
 </table>
 
 ### 📈 Data Analytics & Business Intelligence
