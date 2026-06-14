@@ -86,7 +86,7 @@ Rehab platform, physiotherapist verification, automated PSV pipelines
 |:---:|:---|:---|
 | 🥇 | Boeing Build 4.0 · National Winner | ₹10,00,000 awarded for healthcare innovation |
 | 📡 | IEEE Sensors Journal (JSEN) | Co-author · Flexible capacitive ACL sensor |
-| 💼 | GM Technology · Rapha MedTech | Risk models + patient analytics in production |
+| 💼 | GM Technology · Rapha MedTech | Technology Development + Cross Functional Leadership |
 | 🏥 | Karunya Hospital Fieldwork | Clinical data · patient classification pipelines |
 | 📋 | Deloitte Data Analytics Simulation | Tableau + Excel · Daikibo Industrials (Forage) |
 | 🤖 | Vista Equity Partners AI Simulation | AI in Action · (Forage) |
