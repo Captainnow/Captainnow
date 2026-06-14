@@ -101,7 +101,7 @@ Rehab platform, physiotherapist verification, automated PSV pipelines
 ### General Manager — Technology · Rapha MedTech
 `May 2025 – Present` · Early-stage Healthcare Startup
 
-- 📊 Architecting **patient adherence dashboards** and rehabilitation outcome trackers in Power BI / Tableau
+- 📊 Architecting **Clinical Workflow Orchestration** and patient's rehablitation personalization
 - 🤖 Building a **physiotherapist verification system** — automated PSV pipelines, trust scoring, continuous monitoring
 - 🦾 Supporting the **Myoflex bionic arm** project through Research and development and Cross-Functional leadership 
 - 🔬 Transforming raw clinical & operational data into decision-grade insights for medical teams
