@@ -70,7 +70,7 @@ Myoflex bionic arm, ACL wearable sensor
 
 **🌐 Full-Stack SaaS**
 
-Rehab platform, physiotherapist verification, automated PSV pipelines
+Rehab platform, Skin lesion classification platform, automated PSV pipelines
 
 </td>
 </tr>
