@@ -63,7 +63,7 @@ ETL pipelines, BI dashboards, predictive modeling, KPI systems
 
 **🦾 Biomedical Devices**
 
-Myoflex bionic arm, ACL wearable sensor, URDF/MJCF simulation
+Myoflex bionic arm, ACL wearable sensor
 
 </td>
 <td width="25%" align="center">
