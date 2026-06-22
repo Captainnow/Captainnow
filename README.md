@@ -22,7 +22,7 @@
 <div align="left">
 
 ```yaml
-                                   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                                       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
                                                               profile:
 
                                             name        : V.Karthikeyan
@@ -34,7 +34,7 @@
                                             building    : Rehab SaaS  |  Myoflex Bionic Arm 
                                             achievement : 🏆 Boeing Build 4.0 Champion · ₹10,00,000
                                             mission     : "Bridge clinical insight with data intelligence"
-                                   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                                       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </div>
