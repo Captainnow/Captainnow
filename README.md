@@ -25,15 +25,15 @@
                                    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
                                                               profile:
 
-                                                name        : V.Karthikeyan
-                                                role        : GM Technology @ Rapha MedTech
-                                                education   : B.Tech Biomedical Engineering + Data Science
-                                                              Karunya Institute of Technology & Sciences
-                                                location    : Nilgiris, Tamil Nadu, India  🇮🇳
-                                                research    : IEEE Sensors — ACL Strain Detection (Under Review)
-                                                building    : Rehab SaaS  |  Myoflex Bionic Arm 
-                                                achievement : 🏆 Boeing Build 4.0 Champion · ₹10,00,000
-                                                mission     : "Bridge clinical insight with data intelligence"
+                                            name        : V.Karthikeyan
+                                            role        : GM Technology @ Rapha MedTech
+                                            education   : B.Tech Biomedical Engineering + Data Science
+                                                          Karunya Institute of Technology & Sciences
+                                            location    : Nilgiris, Tamil Nadu, India  🇮🇳
+                                            research    : IEEE Sensors — ACL Strain Detection (Under Review)
+                                            building    : Rehab SaaS  |  Myoflex Bionic Arm 
+                                            achievement : 🏆 Boeing Build 4.0 Champion · ₹10,00,000
+                                            mission     : "Bridge clinical insight with data intelligence"
                                    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
