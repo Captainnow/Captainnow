@@ -15,6 +15,7 @@
 <a href="https://vkarthikeyan-raphamedtec-portfolio-ten.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=2DD4BF" /></a>
 <a href="mailto:karthikeyan6912@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=2DD4BF" /></a>
 <a href="https://maps.google.com/?q=Nilgiris,Tamil+Nadu,India"><img src="https://img.shields.io/badge/Nilgiris,_Tamil_Nadu,_India-0D1117?style=flat-square&logo=googlemaps&logoColor=2DD4BF" /></a>
+<img src="https://komarev.com/ghpvc/?username=Captainnow&label=PROFILE+VIEWS&color=134E4A&style=flat-square&labelColor=0D1117" />
 </p>
 
 </div>
@@ -86,8 +87,20 @@ I turn raw clinical and sensor data into products that get **funded, published, 
 ## 📊 GitHub Snapshot
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Captainnow&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9&hide=stars" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captainnow&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=2DD4BF&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Captainnow&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9&border_color=134E4A&hide=stars" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captainnow&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=c9d1d9&border_color=134E4A" />
+</p>
+
+<p align="center">
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Captainnow&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=134E4A" />
+</p>
+
+<p align="center">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Captainnow&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=ffffff&area=true&area_color=134E4A&hide_border=true&custom_title=Contribution%20Activity&title_color=2DD4BF" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Captainnow&theme=onedark&no-frame=true&no-bg=true&column=4&row=2&margin-w=10&margin-h=10" />
 </p>
 
 <br>
