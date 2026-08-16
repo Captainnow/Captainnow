@@ -7,7 +7,7 @@
 <br/>
 
 ![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Data%20Analyst%20%7C%20Healthcare%20AI%20%7C%20Biomedical%20Eng-FF6B35?style=for-the-badge&labelColor=0D1117)
-![Location](https://img.shields.io/badge/BASED%20IN-Nilgiris,%20TN%20%E2%86%92%20Relocating%20to%20Bengaluru-7C2D12?style=for-the-badge&labelColor=0D1117)
+![Location](https://img.shields.io/badge/BASED%20IN-Nilgiris,%20TN%20%E2%86%92%20Relocated%20to%20Bengaluru-7C2D12?style=for-the-badge&labelColor=0D1117)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://vkarthikeyan-raphamedtec-portfolio-ten.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vkarthikeyan-raphamedtech)
