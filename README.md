@@ -70,30 +70,6 @@ Tendon-driven bionic arm
 
 <br/>
 
-## 📈 Contribution Analytics
-
-<div align="center">
-
-![GitHub Stats](./assets/stats.svg)
-
-![GitHub Streak](./assets/streak.svg)
-
-![Top Languages](./assets/top-langs.svg)
-
-</div>
-
-<br/>
-
-## 🧊 Isometric Contribution Calendar
-
-<div align="center">
-
-![Isometric Contribution Calendar](./assets/isocalendar.svg)
-
-</div>
-
-<br/>
-
 ## 🔬 Research & Recognition
 
 - **IEEE Sensors Journal** *(under review)* — *"Flexible Capacitive Antenna-Based Sensor for Non-Invasive Detection of ACL Strain"* — textile-integrated RF sensor for non-invasive ACL strain measurement
