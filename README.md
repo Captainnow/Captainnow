@@ -61,24 +61,26 @@ Automated physiotherapist verification, trust-scoring, and continuous monitoring
 
 <br/>
 
-## 📊 Annual Contribution Timeline (12 Months)
+## 📊 Animated Contribution Timeline (Last 12 Months)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Captainnow&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2EE6D6&line=1B3A38&point=2EE6D6&area_color=1B3A38&title_color=2EE6D6&custom_title=Contribution%20Activity" width="100%" alt="Contribution Graph" />
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Captainnow&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2EE6D6&line=1B3A38&point=2EE6D6&area_color=1B3A38&title_color=2EE6D6)](https://github.com/Captainnow)
 
 </div>
 
-> **Animated Contribution Metrics** — Last 12 months of development activity visualized in real-time. Tile intensity represents contribution frequency.
+> **Real-time Contribution Activity** — Displays your last 12 months of development with animated intensity gradients. Darker areas represent higher contribution frequency. Updates live from your GitHub API data.
 
 <details open>
-<summary><b>📈 Contribution Stats</b></summary>
+<summary><b>📈 View Contribution Breakdown</b></summary>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Captainnow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EE6D6&text_color=A8DADC&icon_color=2EE6D6&border_color=1B3A38)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Captainnow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EE6D6&text_color=A8DADC&icon_color=2EE6D6&border_color=1B3A38&card_width=400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Captainnow&theme=tokyonight&hide_border=true&background=0D1117&stroke=1B3A38&ring=2EE6D6&fire=FF6B6B&currStreakLabel=2EE6D6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Captainnow&theme=tokyonight&hide_border=true&background=0D1117&stroke=1B3A38&ring=2EE6D6&fire=FF6B6B&currStreakLabel=2EE6D6&card_width=400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Captainnow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EE6D6&text_color=A8DADC&langs_count=8&card_width=400)
 
 </div>
 
