@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B3A38&height=220&section=header&text=Hi%20There,%20I'm%20Karthikeyan%20%F0%9F%91%8B&fontSize=40&fontColor=2EE6D6&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B3A38&height=220&section=header&text=Hi%20There,%20I'm%20Karthikeyan%20%F0%9F%91%8B&fontSize=40&fontColor=2EE6D6&animation=fadeIn" alt="header banner" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EE6D6&center=true&vCenter=true&width=700&lines=Turning+clinical+%26+sensor+data+into+shipped+products;Data+Analyst+%7C+Healthcare+AI+%7C+Full-Stack+Engineer;Building+the+future+of+biomedical+innovation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EE6D6&center=true&vCenter=true&width=700&lines=Turning+clinical+%26+sensor+data+into+shipped+products;Data+Analyst+%7C+Healthcare+AI+%7C+Biomedical+Engineer;Building+the+future+of+biomedical+innovation" alt="typing intro" />
 
 <br/>
 
@@ -52,11 +52,11 @@ Automated physiotherapist verification, trust-scoring, and continuous monitoring
 
 | Project | Description | Tech |
 |---|---|---|
-| 🧑‍⚕️ **[MelascopeDx](https://github.com/Captainnow/Melascope-DX-FULLSTACK-WEB-DEVELOPMENT)** | Full-stack AI dermatology screening platform — 97% skin-lesion classification accuracy, clinical triage dashboards | `TypeScript` `React` `Python` |
-| 👁️ **[Diabetic Retinopathy Screening](https://github.com/Captainnow/Diabetic-retinopathy-screening)** | 5-stage DR severity classification via CNN + ViT, with clinical triage dashboards | `Python` `TensorFlow` `Streamlit` |
+| 🧑‍⚕️ **[MelascopeDx](https://github.com/Captainnow/Melascope-DX-FULLSTACK-WEB-DEVELOPMENT)** | Full-stack AI dermatology screening platform — 97% skin-lesion classification accuracy, structured clinical reporting | `Python` `CNN` `TensorFlow` `Keras` `Streamlit` `FastAPI` |
+| 👁️ **[Diabetic Retinopathy Screening](https://github.com/Captainnow/Diabetic-retinopathy-screening)** | 5-stage DR severity classification via CNN + ViT, with clinical triage dashboards | `Python` `CNN` `Vision Transformers` `Power BI` |
 | 🧠 **[Cortex Intel](https://github.com/Captainnow/Cortex-Intel-Healthcare-Intelligence)** | Healthcare intelligence & ETL analytics platform | `Python` `SQL` |
 | 💧 **[Droplet](https://github.com/Captainnow/Water-Intake-Tracker-Daily-Hydration-App)** | Hydration tracking PWA — animated progress rings, streak tracking | `HTML` `CSS` `JS` |
-| 📊 **[Deloitte Job Simulation Dashboard](https://github.com/Captainnow/Deloitte-Job-Simulation-Dashboard)** | Interactive IoT telemetry dashboard, Deloitte Data Analytics simulation | `Excel` `SQL` |
+| 📊 **[Deloitte Job Simulation Dashboard](https://github.com/Captainnow/Deloitte-Job-Simulation-Dashboard)** | Interactive IoT telemetry dashboard, Deloitte Data Analytics simulation | `Excel` `Dashboards` |
 | 📉 **[Tech Layoffs Dashboard](https://github.com/Captainnow/data-analytics-layoffs-project)** | Global tech layoffs analytics project | `SQL` `Excel` |
 
 <br/>
@@ -77,7 +77,7 @@ Automated physiotherapist verification, trust-scoring, and continuous monitoring
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Captainnow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EE6D6&text_color=A8DADC&icon_color=2EE6D6&border_color=1B3A38)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Captainnow&theme=tokyonight&hide_border=true&background=0D1117&stroke=1B3A38&ring=2EE6D6&fire=FF6B6B&currStreakLabel=2EE6D6)
+![GitHub Streak](https://streak-stats.demolab.com?user=Captainnow&theme=tokyonight&hide_border=true&background=0D1117&stroke=1B3A38&ring=2EE6D6&fire=FF6B6B&currStreakLabel=2EE6D6)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Captainnow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EE6D6&text_color=A8DADC&langs_count=8)
 
@@ -156,4 +156,4 @@ Automated physiotherapist verification, trust-scoring, and continuous monitoring
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A38,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A38,100:0D1117&height=100&section=footer" width="100%" alt="footer banner"/>
