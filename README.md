@@ -19,7 +19,7 @@
 
 ## 🧬 About Me
 
-- 🎓 **B.Tech, Biomedical Engineering** (Data Science Specialization) - Karunya Institute of Technology & Sciences 2022–2026
+- 🎓 **B.Tech, Biomedical Engineering** (Data Science Specialization) - Karunya Institute of Technology & Sciences 2022 - 2026
 - 💼 **Project Manager Intern @ Rapha MedTech** - leading technology across prosthetic and rehabilitation product lines, prototype to grant-funded milestone
 - 🏆 **Boeing Build 4.0 — National Winner** - Top 7 of 2,077+ teams · ₹10,00,000 secured for healthcare innovation
 - 📝 **Co-Author, IEEE Sensors Journal** - flexible capacitive RF sensor for non-invasive ACL strain detection *(under review)*
