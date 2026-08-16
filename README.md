@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B3A38&height=220&section=header&text=Hi%20There,%20I'm%20Karthikeyan%20%F0%9F%91%8B&fontSize=40&fontColor=2EE6D6&animation=fadeIn" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7C2D12&height=220&section=header&text=Hi%20There,%20I'm%20Karthikeyan%20%F0%9F%91%8B&fontSize=40&fontColor=FF6B35&animation=fadeIn" alt="header banner" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EE6D6&center=true&vCenter=true&width=700&lines=Turning+clinical+%26+sensor+data+into+shipped+products;Data+Analyst+%7C+Healthcare+AI+%7C+Biomedical+Engineer;Building+the+future+of+biomedical+innovation" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Turning+clinical+%26+sensor+data+into+shipped+products;Data+Analyst+%7C+Healthcare+AI+%7C+Biomedical+Engineer;Building+the+future+of+biomedical+innovation" alt="typing intro" />
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Data%20Analyst%20%7C%20Healthcare%20AI%20%7C%20Biomedical%20Eng-2EE6D6?style=for-the-badge&labelColor=0D1117)
-![Location](https://img.shields.io/badge/BASED%20IN-Nilgiris,%20TN%20%E2%86%92%20Relocating%20to%20Bengaluru-1B3A38?style=for-the-badge&labelColor=0D1117)
+![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Data%20Analyst%20%7C%20Healthcare%20AI%20%7C%20Biomedical%20Eng-FF6B35?style=for-the-badge&labelColor=0D1117)
+![Location](https://img.shields.io/badge/BASED%20IN-Nilgiris,%20TN%20%E2%86%92%20Relocating%20to%20Bengaluru-7C2D12?style=for-the-badge&labelColor=0D1117)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2EE6D6?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://vkarthikeyan-raphamedtec-portfolio-ten.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://vkarthikeyan-raphamedtec-portfolio-ten.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vkarthikeyan-raphamedtech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikeyan6912@gmail.com)
 
@@ -65,7 +65,7 @@ Automated physiotherapist verification, trust-scoring, and continuous monitoring
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Captainnow&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2EE6D6&line=1B3A38&point=2EE6D6&area_color=1B3A38&title_color=2EE6D6&custom_title=Annual%20Contribution%20Activity)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Captainnow&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B35&line=7C2D12&point=FF6B35&area_color=7C2D12&title_color=FF6B35&custom_title=Annual%20Contribution%20Activity)
 
 </div>
 
@@ -75,21 +75,21 @@ Automated physiotherapist verification, trust-scoring, and continuous monitoring
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Captainnow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EE6D6&text_color=A8DADC&icon_color=2EE6D6&border_color=1B3A38)
+![GitHub Stats](./assets/stats.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Captainnow&theme=tokyonight&hide_border=true&background=0D1117&stroke=1B3A38&ring=2EE6D6&fire=FF6B6B&currStreakLabel=2EE6D6)
+![GitHub Streak](./assets/streak.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Captainnow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EE6D6&text_color=A8DADC&langs_count=8)
+![Top Languages](./assets/top-langs.svg)
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake Animation
+## 🧊 Isometric Contribution Calendar
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/Captainnow/Captainnow/output/github-contribution-grid-snake-dark.svg)
+![Isometric Contribution Calendar](./assets/isocalendar.svg)
 
 </div>
 
@@ -138,7 +138,7 @@ Automated physiotherapist verification, trust-scoring, and continuous monitoring
 
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Captainnow&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Captainnow&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=8)
 
 </div>
 
@@ -149,11 +149,11 @@ Automated physiotherapist verification, trust-scoring, and continuous monitoring
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vkarthikeyan-raphamedtech)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2EE6D6?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://vkarthikeyan-raphamedtec-portfolio-ten.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://vkarthikeyan-raphamedtec-portfolio-ten.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikeyan6912@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=Captainnow&color=2EE6D6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Captainnow&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A38,100:0D1117&height=100&section=footer" width="100%" alt="footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C2D12,100:0D1117&height=100&section=footer" width="100%" alt="footer banner"/>
