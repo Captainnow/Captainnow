@@ -111,14 +111,6 @@ Tendon-driven bionic arm
 
 <br/>
 
-<div align="center">
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Captainnow&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=8)
-
-</div>
-
-<br/>
-
 ## 🤝 Connect With Me
 
 <div align="center">
