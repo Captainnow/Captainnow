@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B3A38&height=220&section=header&text=Hi%20There,%20I'm%20Karthikeyan%20%F0%9F%91%8B&fontSize=40&fontColor=2EE6D6&animation=fadeIn&fontAlignY=70&desc=Data%20Analyst%20%7C%20Healthcare%20AI%20%7C%20Biomedical%20Engineer&descAlignY=85&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B3A38&height=220&section=header&text=Hi%20There,%20I'm%20Karthikeyan%20%F0%9F%91%8B&fontSize=40&fontColor=2EE6D6&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EE6D6&center=true&vCenter=true&width=700&lines=Turning+clinical+%26+sensor+data+into+shipped+products;Healthcare+AI+%7C+Full-Stack+Engineer;Data-Driven+Innovation+from+Lab+to+Market" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EE6D6&center=true&vCenter=true&width=700&lines=Turning+clinical+%26+sensor+data+into+shipped+products;Data+Analyst+%7C+Healthcare+AI+%7C+Full-Stack+Engineer;Building+the+future+of+biomedical+innovation" />
 
 <br/>
 
@@ -52,8 +52,8 @@ Automated physiotherapist verification, trust-scoring, and continuous monitoring
 
 | Project | Description | Tech |
 |---|---|---|
-| 🧑‍⚕️ **[MelascopeDx](https://github.com/Captainnow/Melascope-DX-FULLSTACK-WEB-DEVELOPMENT)** | Full-stack AI dermatology screening platform — 97% skin-lesion classification accuracy, automated clinical workflow | `TypeScript` `React` `Python` `TensorFlow` |
-| 👁️ **[Diabetic Retinopathy Screening](https://github.com/Captainnow/Diabetic-retinopathy-screening)** | 5-stage DR severity classification via CNN + ViT, with clinical triage dashboards | `Python` `PyTorch` `Streamlit` |
+| 🧑‍⚕️ **[MelascopeDx](https://github.com/Captainnow/Melascope-DX-FULLSTACK-WEB-DEVELOPMENT)** | Full-stack AI dermatology screening platform — 97% skin-lesion classification accuracy, clinical triage dashboards | `TypeScript` `React` `Python` |
+| 👁️ **[Diabetic Retinopathy Screening](https://github.com/Captainnow/Diabetic-retinopathy-screening)** | 5-stage DR severity classification via CNN + ViT, with clinical triage dashboards | `Python` `TensorFlow` `Streamlit` |
 | 🧠 **[Cortex Intel](https://github.com/Captainnow/Cortex-Intel-Healthcare-Intelligence)** | Healthcare intelligence & ETL analytics platform | `Python` `SQL` |
 | 💧 **[Droplet](https://github.com/Captainnow/Water-Intake-Tracker-Daily-Hydration-App)** | Hydration tracking PWA — animated progress rings, streak tracking | `HTML` `CSS` `JS` |
 | 📊 **[Deloitte Job Simulation Dashboard](https://github.com/Captainnow/Deloitte-Job-Simulation-Dashboard)** | Interactive IoT telemetry dashboard, Deloitte Data Analytics simulation | `Excel` `SQL` |
@@ -61,9 +61,34 @@ Automated physiotherapist verification, trust-scoring, and continuous monitoring
 
 <br/>
 
+## 📊 Annual Contribution Timeline (12 Months)
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Captainnow&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2EE6D6&line=1B3A38&point=2EE6D6&area_color=1B3A38&title_color=2EE6D6&custom_title=Contribution%20Activity" width="100%" alt="Contribution Graph" />
+
+</div>
+
+> **Animated Contribution Metrics** — Last 12 months of development activity visualized in real-time. Tile intensity represents contribution frequency.
+
+<details open>
+<summary><b>📈 Contribution Stats</b></summary>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Captainnow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EE6D6&text_color=A8DADC&icon_color=2EE6D6&border_color=1B3A38)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Captainnow&theme=tokyonight&hide_border=true&background=0D1117&stroke=1B3A38&ring=2EE6D6&fire=FF6B6B&currStreakLabel=2EE6D6)
+
+</div>
+
+</details>
+
+<br/>
+
 ## 🔬 Research & Recognition
 
-- **IEEE Sensors Journal** *(under review)* — *"Flexible Capacitive Antenna-Based Sensor for Non-Invasive Detection of ACL Strain"* — textile-integrated RF sensor for non-invasive ACL strain measurement in sports medicine
+- **IEEE Sensors Journal** *(under review)* — *"Flexible Capacitive Antenna-Based Sensor for Non-Invasive Detection of ACL Strain"* — textile-integrated RF sensor for non-invasive ACL strain measurement
 - **Boeing Build 4.0** — National Winner, Top 7 of 2,077+ teams, ₹10L funded for healthcare innovation
 - **Deloitte Data Analytics** Job Simulation (Forage) · **Vista Equity Partners AI in Action** (Forage)
 
@@ -115,7 +140,7 @@ Automated physiotherapist verification, trust-scoring, and continuous monitoring
 How to set up:
 
 1. The workflow runs on a schedule and on push (see `.github/workflows/snake.yml`). It generates two SVGs and pushes them to the `output` branch.
-2. This README displays the dark SVG at `output/github-contribution-grid-snake-dark.svg` via the raw.githubusercontent.com URL above — make sure the `output` branch exists (the action will create it automatically).
+2. This README displays the dark SVG at `output/github-contribution-grid-snake-dark.svg` via the raw.githubusercontent.com URL above — make sure the `output` branch exists (the action will create it).
 3. To trigger manually: Go to the Actions tab → "generate animated contribution snake" → "Run workflow" → select `main` and run.
 
 <br/>
