@@ -61,27 +61,35 @@ Automated physiotherapist verification, trust-scoring, and continuous monitoring
 
 <br/>
 
-## 📊 Animated Contribution Timeline (Last 12 Months)
+## 📊 Contribution Timeline (Last 12 Months)
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Captainnow&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2EE6D6&line=1B3A38&point=2EE6D6&area_color=1B3A38&title_color=2EE6D6&custom_title=Annual%20Contribution%20Activity)](https://github.com/Captainnow?tab=repositories)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Captainnow&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2EE6D6&line=1B3A38&point=2EE6D6&area_color=1B3A38&title_color=2EE6D6&custom_title=Annual%20Contribution%20Activity)
 
 </div>
 
-> **Real-time Contribution Activity** — Displays your last 12 months of development with animated intensity gradients. Darker areas = higher contribution frequency. **Auto-updates live from your GitHub data.**
-
 <br/>
 
-## 📈 Contribution Stats
+## 📈 Contribution Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Captainnow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EE6D6&text_color=A8DADC&icon_color=2EE6D6&border_color=1B3A38&card_width=450)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Captainnow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EE6D6&text_color=A8DADC&icon_color=2EE6D6&border_color=1B3A38)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Captainnow&theme=tokyonight&hide_border=true&background=0D1117&stroke=1B3A38&ring=2EE6D6&fire=FF6B6B&currStreakLabel=2EE6D6)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Captainnow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EE6D6&text_color=A8DADC&langs_count=10&card_width=450)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Captainnow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EE6D6&text_color=A8DADC&langs_count=8)
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/Captainnow/Captainnow/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -128,26 +136,9 @@ Automated physiotherapist verification, trust-scoring, and continuous monitoring
 
 <br/>
 
-### 🐍 Live Contribution Snake (LED-style animated grid)
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Captainnow/Captainnow/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
-
-</div>
-
-> Animates your real contribution tiles lighting up like an LED grid as the snake eats through them. This workflow generates an animated SVG from your GitHub contribution graph every 6 hours.
-
-**Workflow Status:**
-1. ✅ Workflow runs automatically every 6 hours (see `.github/workflows/snake.yml`)
-2. ✅ Generates animated SVG and pushes to `output` branch
-3. 🎮 To trigger manually: Go to **Actions** tab → **"generate animated contribution snake"** → **"Run workflow"** → select `main` branch
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Captainnow&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%" alt="GitHub Trophy" />
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Captainnow&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)
 
 </div>
 
