@@ -21,6 +21,24 @@ jobs:
       - name: Make sure the assets folder exists
         run: mkdir -p assets
 
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          # install jq and docker; if docker package isn't available on the runner this will still attempt jq which lowlighter/metrics needs
+          sudo apt-get install -y jq docker.io || true
+          # try starting docker in case the action expects the daemon
+          sudo systemctl start docker || true
+          echo "Checked/installed docker & jq"
+
+      - name: Check METRICS_TOKEN
+        run: |
+          if [ -z "${{ secrets.METRICS_TOKEN }}" ]; then
+            echo "::error::METRICS_TOKEN repository secret is not set. Create a PAT and add it as METRICS_TOKEN in repository secrets. See the workflow logs for more info."
+            exit 1
+          else
+            echo "METRICS_TOKEN found."
+          fi
+
       - name: Generate isometric contribution calendar
         uses: lowlighter/metrics@latest
         with:
