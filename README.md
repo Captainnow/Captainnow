@@ -34,13 +34,12 @@
 <td width="50%" valign="top">
 
 **🦾 Myoflex**
-Tendon-driven bionic arm — Jetson Orin Nano · EMG sensing · ROS2. R&D + system integration lead.
+Tendon-driven bionic arm
 
 </td>
 <td width="50%" valign="top">
 
-**🩺 Rehab SaaS — PSV Pipeline**
-Automated physiotherapist verification, trust-scoring, and continuous monitoring system.
+**🩺 Rehab SaaS
 
 </td>
 </tr>
