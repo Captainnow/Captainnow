@@ -1,125 +1,184 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7C2D12&height=220&section=header&text=Hi%20There,%20I'm%20Karthikeyan%20%F0%9F%91%8B&fontSize=40&fontColor=FF6B35&animation=fadeIn" alt="header banner" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:134E4A,100:2DD4BF&height=200&section=header&text=V.Karthikeyan&fontColor=E2F8F5&fontSize=42&animation=fadeIn&fontAlignY=35)
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Turning+clinical+%26+sensor+data+into+shipped+products;Data+Analyst+%7C+Healthcare+AI+%7C+Biomedical+Engineer;Building+the+future+of+biomedical+innovation" alt="typing intro" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=680&lines=KARTHIKEYAN+%7C+Manager+at+Rapha+MedTech;Biomedical+Engineer+%2B+Data+Analyst;Boeing+Build+4.0+National+Winner+%F0%9F%8F%86)](https://github.com/Captainnow)
 
-<br/>
-
-![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Data%20Analyst%20%7C%20Healthcare%20AI%20%7C%20Biomedical%20Eng-FF6B35?style=for-the-badge&labelColor=0D1117)
-![Location](https://img.shields.io/badge/BASED%20IN-Nilgiris,%20TN%20%E2%86%92%20Relocated%20to%20Bengaluru-7C2D12?style=for-the-badge&labelColor=0D1117)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://vkarthikeyan-raphamedtec-portfolio-ten.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vkarthikeyan-raphamedtech)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikeyan6912@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://linkedin.com/in/vkarthikeyan-raphamedtech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=2DD4BF)](https://vkarthikeyan-raphamedtec-portfolio-ten.vercel.app)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF)](mailto:karthikeyan6912@gmail.com)
+[![Location](https://img.shields.io/badge/Tamil%20Nadu%2C%20India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=2DD4BF)](https://maps.google.com/?q=Tamil+Nadu,India)
 
 </div>
 
-<br/>
+---
 
-## 🧬 About Me
+## ⚡ What I Build
 
-- 🎓 **B.Tech, Biomedical Engineering** (Data Science Specialization) - Karunya Institute of Technology & Sciences 2022 - 2026
-- 💼 **Project Manager Intern @ Rapha MedTech** - leading technology across prosthetic and rehabilitation product lines, prototype to grant-funded milestone
-- 🏆 **Boeing Build 4.0 — National Winner** - Top 7 of 2,077+ teams · ₹10,00,000 secured for healthcare innovation
-- 📝 **Co-Author, IEEE Sensors Journal** - flexible capacitive RF sensor for non-invasive ACL strain detection *(under review)*
-- 🎯 **Open to full-time roles:** Data Analyst · Healthcare AI Engineer · Biomedical Engineer - Bengaluru / open to relocation
+| 🏥 Healthcare AI | 📊 Data Engineering | 🦾 Biomedical Devices | 🌐 Full-Stack SaaS |
+|---|---|---|---|
+| Patient risk stratification, clinical decision support, rehabilitation analytics | ETL pipelines, BI dashboards, predictive modeling, KPI systems | Myoflex bionic arm, ACL wearable sensor | Rehab platform, skin-lesion classifier, automated PSV pipelines |
 
-<br/>
+---
 
-## 🚧 Currently Building
+## 🏆 Achievements
+
+| | Achievement | Details |
+|---|---|---|
+| 🥇 | Boeing Build 4.0 · National Winner | ₹10,00,000 awarded for healthcare innovation |
+| 📡 | IEEE Sensors Journal (JSEN) | Co-author · Flexible capacitive ACL sensor |
+| 💼 | GM Technology · Rapha MedTech | Technology development + cross-functional leadership |
+| 🏥 | Karunya Hospital Fieldwork | Clinical data · patient classification pipelines |
+| 📋 | Deloitte Data Analytics Simulation | Tableau + Excel · Daikibo Industrials (Forage) |
+| 🤖 | Vista Equity Partners AI Simulation | AI in Action (Forage) |
+| 🐍 | Python Essentials 1 & 2 | Cisco Certified |
+
+---
+
+## 💼 Experience
+
+**General Manager — Technology · Rapha MedTech**
+`May 2025 – Present` · Early-stage healthcare startup
+
+- 📊 Architecting clinical workflow orchestration and patient rehabilitation personalization
+- 🤖 Building a physiotherapist verification system — automated PSV pipelines, trust scoring, continuous monitoring
+- 🦾 Developing the Myoflex bionic arm through R&D and cross-functional leadership
+- 🔬 Transforming raw clinical & operational data into decision-grade insights for medical teams
+
+---
+
+## 🚀 Featured Projects
+
+**🏥 Healthcare Intelligence**
+- [Cortex-Intel Healthcare Intelligence](https://github.com/Captainnow/Cortex-Intel-Healthcare-Intelligence) — 8,500+ healthcare records integrated with FDA recalls & WHO indicators; predictive clinical risk pipelines. `Python` `SQL` `Data Analytics` `Risk Modeling`
+- [Diabetic Retinopathy Screening](https://github.com/Captainnow/Diabetic-retinopathy-screening) — Deep learning model for early-stage detection, deployed via Streamlit. `Python` `PyTorch` `Streamlit`
+- [Skin Lesion Classification](https://github.com/Captainnow/Skin-lesion-classification) — AI dermatology classifier for clinical decision support. `Python` `TensorFlow` `Computer Vision`
+
+**📈 Data Analytics & BI**
+- [Global Tech Layoffs Dashboard](https://github.com/Captainnow/data-analytics-layoffs-project) — 1,893 companies, 386,000+ employees, 40,000+ layoffs analyzed. `Excel` `Power BI` `EDA`
+- [Deloitte IoT Analytics Dashboard](https://github.com/Captainnow/Deloitte-Job-Simulation-Dashboard) — IoT telemetry analysis, device health & anomaly detection. `Tableau` `IoT Analytics`
+
+**🌐 Full-Stack & Web**
+- [Portfolio Website](https://github.com/Captainnow/Karthikeyan-portfolio) — `React` `CSS` `JavaScript`
+- [Melascope DX Full-Stack](https://github.com/Captainnow/Melascope-DX-FULLSTACK-WEB-DEVELOPMENT) — `TypeScript` `React` `Python`
+- [Water Intake Tracker](https://github.com/Captainnow/Water-Intake-Tracker-Daily-Hydration-App) — `HTML` `CSS` `JavaScript`
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Core Languages**
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=2DD4BF)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=2DD4BF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=2DD4BF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=2DD4BF)
+![MATLAB](https://img.shields.io/badge/MATLAB-0D1117?style=for-the-badge&logo=mathworks&logoColor=2DD4BF)
+
+**Data & Analytics**
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=2DD4BF)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=2DD4BF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=2DD4BF)
+![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=2DD4BF)
+![Tableau](https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=2DD4BF)
+![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=2DD4BF)
+
+**ML / Deep Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=2DD4BF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=2DD4BF)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=2DD4BF)
+
+**Web & Databases**
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=2DD4BF)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=2DD4BF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=2DD4BF)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=2DD4BF)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=2DD4BF)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=2DD4BF)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=2DD4BF)
+![Google Colab](https://img.shields.io/badge/Colab-0D1117?style=for-the-badge&logo=googlecolab&logoColor=2DD4BF)
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=2DD4BF)
+
+</div>
+
+---
+
+## 📚 Research
+
+> **🔬 Flexible RF-Based Wearable Sensor for Pre- and Post-ACL Strain Assessment**
+> *Under Review — International Journal of Electronics · Karunya Institute of Technology and Sciences*
+>
+> Novel textile-integrated RF sensing platform for rehabilitation monitoring, enabling advanced musculoskeletal health assessment through flexible electronics.
+
+---
+
+## 📊 GitHub Analytics — Live Dashboard
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2">
 
-**🦾 Myoflex**
-Tendon-driven bionic arm
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Captainnow&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=E2F8F5&area=true&area_color=2DD4BF&title_color=2DD4BF&text_color=94A3B8&hide_border=true&custom_title=Contribution%20Activity)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="50%">
 
-**🩺 Rehab SaaS
+![Stats](https://github-readme-stats.vercel.app/api?username=Captainnow&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=94A3B8&count_private=true&include_all_commits=true&cache_seconds=1800)
+
+</td>
+<td width="50%">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Captainnow&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=94A3B8&langs_count=7&cache_seconds=1800)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Captainnow&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=94A3B8&dates=94A3B8)
 
 </td>
 </tr>
 </table>
 
-<br/>
+</div>
 
-## 🚀 Featured Projects
+> All four cards query live on every page load — the activity graph and streak counter re-render fresh from GitHub's Events API each time (no cache param exists for them); `cache_seconds=1800` pins the stats/langs cards to their minimum allowed cache window.
 
-| Project | Description | Tech |
-|---|---|---|
-| 🧑‍⚕️ **[MelascopeDx](https://github.com/Captainnow/Melascope-DX-FULLSTACK-WEB-DEVELOPMENT)** | Full-stack AI dermatology screening platform — 97% skin-lesion classification accuracy, structured clinical reporting | `Python` `CNN` `TensorFlow` `Keras` `Streamlit` `FastAPI` |
-| 👁️ **[Diabetic Retinopathy Screening](https://github.com/Captainnow/Diabetic-retinopathy-screening)** | 5-stage DR severity classification via CNN + ViT, with clinical triage dashboards | `Python` `CNN` `Vision Transformers` `Power BI` |
-| 🧠 **[Cortex Intel](https://github.com/Captainnow/Cortex-Intel-Healthcare-Intelligence)** | Healthcare intelligence & ETL analytics platform | `Python` `SQL` |
-| 💧 **[Droplet](https://github.com/Captainnow/Water-Intake-Tracker-Daily-Hydration-App)** | Hydration tracking PWA — animated progress rings, streak tracking | `HTML` `CSS` `JS` |
-| 📊 **[Deloitte Job Simulation Dashboard](https://github.com/Captainnow/Deloitte-Job-Simulation-Dashboard)** | Interactive IoT telemetry dashboard, Deloitte Data Analytics simulation | `Excel` `Dashboards` |
-| 📉 **[Tech Layoffs Dashboard](https://github.com/Captainnow/data-analytics-layoffs-project)** | Global tech layoffs analytics project | `SQL` `Excel` |
+---
 
-<br/>
+## 🎓 Education
 
-## 📊 Contribution Timeline (Last 12 Months)
+**B.Tech — Biomedical Engineering · Data Science Specialization**
+Karunya Institute of Technology and Sciences, Coimbatore `2022 – 2026`
+
+---
+
+## 🤝 Open To
+
+| Role | Domain |
+|---|---|
+| 💼 Full-time | Data Analyst · Business Analyst · Healthcare AI Engineer |
+| 🤝 Collaboration | Healthcare technology · Data science research |
+| 📈 Consulting | Clinical analytics · Data-driven decision systems |
+
+**📧** karthikeyan6912@gmail.com · **💼** [LinkedIn](https://linkedin.com/in/vkarthikeyan-raphamedtech) · **🌐** [Portfolio](https://vkarthikeyan-raphamedtec-portfolio-ten.vercel.app) · **📍** Nilgiris, TN, India
+
+---
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Captainnow&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B35&line=7C2D12&point=FF6B35&area_color=7C2D12&title_color=FF6B35&custom_title=Annual%20Contribution%20Activity)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:134E4A,100:0D1117&height=120&section=footer)
+
+![Visitors](https://komarev.com/ghpvc/?username=Captainnow&style=flat-square&color=2DD4BF&label=PROFILE+VIEWS)
+
+*"Building intelligent healthcare systems that make an impact — one model at a time."*
 
 </div>
-
-<br/>
-
-## 🔬 Research & Recognition
-
-- **IEEE Sensors Journal** *(under review)* — *"Flexible Capacitive Antenna-Based Sensor for Non-Invasive Detection of ACL Strain"* — textile-integrated RF sensor for non-invasive ACL strain measurement
-- **Boeing Build 4.0** — National Winner, Top 7 of 2,077+ teams, ₹10L funded for healthcare innovation
-- **Deloitte Data Analytics** Job Simulation (Forage) · **Vista Equity Partners AI in Action** (Forage)
-
-<br/>
-
-## 🛠️ Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-**Data, ML & Analytics**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-**Web & Systems**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tooling**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vkarthikeyan-raphamedtech)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://vkarthikeyan-raphamedtec-portfolio-ten.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikeyan6912@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Captainnow&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C2D12,100:0D1117&height=100&section=footer" width="100%" alt="footer banner"/>
