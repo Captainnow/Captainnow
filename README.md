@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:134E4A,100:2DD4BF&height=200&section=header&text=V.Karthikeyan&fontColor=E2F8F5&fontSize=42&animation=fadeIn&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=680&lines=KARTHIKEYAN+%7C+Manager+at+Rapha+MedTech;Biomedical+Engineer+%2B+Data+Analyst;Boeing+Build+4.0+National+Winner+%F0%9F%8F%86)](https://github.com/Captainnow)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=680&lines=Data+Analyst+%7C+Manager+at+Rapha+MedTech;Biomedical+Engineer+%2B+Data+Analyst;Boeing+Build+4.0+National+Winner+%F0%9F%8F%86)](https://github.com/Captainnow)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://linkedin.com/in/vkarthikeyan-raphamedtech)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=2DD4BF)](https://vkarthikeyan-raphamedtec-portfolio-ten.vercel.app)
@@ -11,7 +11,7 @@
 
 </div>
 
----
+
 
 ## ⚡ What I Build
 
@@ -130,7 +130,7 @@
 <tr>
 <td width="50%">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Captainnow&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=94A3B8&count_private=true&include_all_commits=true&cache_seconds=1800)
+![Stats](https://github-readme-stats.vercel.app/api?username=Captainnow&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=94A3B8&include_all_commits=true&cache_seconds=1800)
 
 </td>
 <td width="50%">
@@ -142,7 +142,7 @@
 <tr>
 <td colspan="2">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Captainnow&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=94A3B8&dates=94A3B8)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Captainnow&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakNum=E2F8F5&currStreakLabel=2DD4BF&sideNums=E2F8F5&sideLabels=94A3B8&dates=94A3B8)
 
 </td>
 </tr>
