@@ -37,7 +37,7 @@
 
 ## 💼 Experience
 
-**General Manager — Technology · Rapha MedTech**
+**Project Manager  · Rapha MedTech**
 `May 2025 – Present` · Early-stage healthcare startup
 
 - 📊 Architecting clinical workflow orchestration and patient rehabilitation personalization
