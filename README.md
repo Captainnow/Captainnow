@@ -115,44 +115,7 @@
 
 ---
 
-## 📊 GitHub Analytics — Live Dashboard
 
-<div align="center">
-
-<table>
-<tr>
-<td colspan="2">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Captainnow&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=E2F8F5&area=true&area_color=2DD4BF&title_color=2DD4BF&text_color=94A3B8&hide_border=true&custom_title=Contribution%20Activity)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Captainnow&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=94A3B8&include_all_commits=true&cache_seconds=1800)
-
-</td>
-<td width="50%">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Captainnow&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=94A3B8&langs_count=7&cache_seconds=1800)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Captainnow&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakNum=E2F8F5&currStreakLabel=2DD4BF&sideNums=E2F8F5&sideLabels=94A3B8&dates=94A3B8)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-> All four cards query live on every page load — the activity graph and streak counter re-render fresh from GitHub's Events API each time (no cache param exists for them); `cache_seconds=1800` pins the stats/langs cards to their minimum allowed cache window.
-
----
 
 ## 🎓 Education
 
